@@ -1,0 +1,27 @@
+h1{
+    text-align:center;
+    color:ghostwhite;
+}
+body{
+    background-image:url('https://cdn.hipwallpaper.com/i/35/29/j4t0DI.jpg');
+}
+p{
+   font-size: 30px;
+   color:tomato;
+   text-align: center;
+}
+table,th,td{
+    border: 1px solid black;;
+    color:black;
+}
+table {
+    border-collapse: collapse;
+    width: 30%;
+    text-align: left;
+  }
+table,th{
+    background-color:green;
+}
+table,td{ 
+    background-color: lightgreen;
+}
